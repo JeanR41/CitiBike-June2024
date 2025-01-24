@@ -2,6 +2,7 @@
 
 ## Overview
 This Tableau Story presents a set of visualizations based on data provided by the Citi Bike program. The analysis aims to uncover phenomena in bike usage patterns, customer behavior, and station performance throughout June 2024. Each phenomenon is explored through a series of data visualizations that highlight key trends, with the goal of providing actionable insights to city officials and stakeholders.
+View the Tableau Story at: [https://public.tableau.com/app/profile/jean.ryan.lozon/viz/CitiBikeAnalysis-June2024/June2024CitiBikeAnalysis] (https://public.tableau.com/app/profile/jean.ryan.lozon/viz/CitiBikeAnalysis-June2024/June2024CitiBikeAnalysis)
 
 ## Data Source
 **CitiBike Data:** https://s3.amazonaws.com/tripdata/index.html
